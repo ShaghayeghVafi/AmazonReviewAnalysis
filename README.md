@@ -22,6 +22,7 @@ Test the model with new reviews by modifying the example inputs in the code.
 The model achieved high accuracy in classifying reviews as positive or negative. Example predictions:
 
 Negative review: "This book had no cohesion, would not recommend. I am disappointed." → Classified as Negative (0)
+
 Positive review: "I loved this book. It lived up to my expectations and WHAT A TWIST!" → Classified as Positive (1)
 ### Future Improvements
 Enhance model performance by experimenting with other classifiers like Random Forest or SVM.
